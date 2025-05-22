@@ -1,11 +1,10 @@
-/*
- First name: Carlos
- Last name: Stevenson
- This year: 1965
- Birth year: 1947
-
- The greeting should read: "Hello! My name is Carlos Stevenson and I am 18 years old."
-*/
+firstName = "Miguel Angel";
+lastName = "Restrepo Saavedra";
+thisYear = 2025;
+birthYear = 2000;
+fullName = firstName + " " + lastName;
+age = thisYear - birthYear;
+greeting = "Hello! My name is " + fullName + " and I am " + age + " years old.";
 
 // Add your code right below, good luck!
 
